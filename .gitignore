@@ -1,0 +1,21 @@
+# Windows / user-profile noise
+AppData/
+Application Data/
+NTUSER.*
+ntuser.*
+OneDrive/
+Contacts/
+Favorites/
+Links/
+Saved Games/
+Searches/
+
+# Editor / tooling
+.vscode/
+.ipython/
+.matplotlib/
+*.log
+
+# Optional: keep repo clean (uncomment if you want to exclude outputs)
+# *.png
+# *.csv
